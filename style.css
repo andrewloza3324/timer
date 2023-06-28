@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.time {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 40px;
+  font-family: "Courier New";
+  font-size: 150px;
+  font-weight: 600;
+}
+.timer {
+  text-align: center;
+  background-color: red;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 500px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.button {
+  display: block;
+  border-radius: 15px;
+  border: none;
+  font-size: 40px;
+  padding: 5px;
+  background-color: black;
+  color: white;
+  font-family: "Courier New";
+  margin-top: 40px;
+}
+.history-list {
+  font-size: 40px;
+  max-width: 600px;
+  margin: auto;
+  font-family: "Courier New";
+  font-size: 60px;
+  font-weight: 600;
+}
+.wrapper {
+  margin-top: 40px;
+}
+.in-list {
+  display: flex;
+  gap: 20px;
+  width: 25%;
+  height: 100%;
+}
+.history {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 40px;
+  font-family: "Courier New";
+  font-size: 60px;
+  font-weight: 600;
+}
+.fonts {
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 40px;
+  font-family: "Courier New";
+  font-size: 80px;
+  font-weight: 600;
+}
